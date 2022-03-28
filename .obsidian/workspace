@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "e5dea4185f7cfb5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "07a7ad8be1205bc5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PowerShell/List installed MS .NET frameworks.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7eb7975412a43a49",
+    "type": "split",
+    "children": [
+      {
+        "id": "204d23b66d288a6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39fff62f442201a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "be07cf0d5bae7a86",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "79251a8710bc5a71",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4101fb4ba708743",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7dcda678282b745",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PowerShell/List installed MS .NET frameworks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "07a7ad8be1205bc5",
+  "lastOpenFiles": [
+    "PowerShell/List installed MS .NET frameworks.md",
+    "DotNet/DotNet web app with VueJS 2 setup.md",
+    "Git/Remove submodules.md",
+    "Git/Cherry-pick commits of a specific folder.md",
+    "README.md"
+  ]
+}
